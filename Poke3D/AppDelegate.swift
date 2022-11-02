@@ -1,9 +1,3 @@
-//
-//  AppDelegate.swift
-//  Poke3D
-//
-//  Created by Admin on 21/09/2022.
-//
 
 import UIKit
 
